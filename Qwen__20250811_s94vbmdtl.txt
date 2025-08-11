@@ -1,0 +1,30 @@
+global-news-plus/
+├── .github/
+│   └── workflows/
+│       └── flutter-ci.yml
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   ├── news_detail_screen.dart
+│   │   └── category_screen.dart
+│   ├── models/
+│   │   └── news_model.dart
+│   ├── services/
+│   │   └── news_service.dart
+│   ├── widgets/
+│   │   ├── news_card.dart
+│   │   ├── category_card.dart
+│   │   └── custom_app_bar.dart
+│   └── constants/
+│       └── app_constants.dart
+├── test/
+│   └── widget_test.dart
+├── assets/
+│   └── images/
+├── screenshots/
+├── .gitignore
+├── pubspec.yaml
+├── README.md
+├── LICENSE
+└── CHANGELOG.md
